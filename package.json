@@ -1,0 +1,27 @@
+{
+  "name": "api-tareas",
+  "version": "1.0.0",
+  "dependencies": {
+    "mongoose": "^4.1.11",
+    "express": "^4.7.1",
+    "method-override": "^2.1.2",
+    "body-parser": "^1.5.1",
+    "mongodb": "^2.2.12"
+  },
+  "description": "Servicio de api_tasky",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguelm197/api_tasky.git"
+  },
+  "author": "Miguel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguelm197/api_tasky.git"
+  },
+  "homepage": "https://github.com/miguelm197/api_tasky.git#readme"
+}
